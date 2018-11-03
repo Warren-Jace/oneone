@@ -1,0 +1,17 @@
+numStr = "100010"
+res = int(numStr, base=0)
+print(res)
+
+# 将任意进制或字符串转换为10进制的数
+import functools
+int1 = functools.partial(int, base=3)
+print(int1(numStr))
+
+def test(a,b):
+    print(a + b)
+
+print(test)
+print(id(test))
+
+test2 = test
+test2(1, 2)

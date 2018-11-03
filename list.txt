@@ -1,0 +1,118 @@
+文件/jpg
+	xx.jpg	xx2.jpg
+文件/py
+	文件操作.py	文件相关操作.py
+文件/txt
+	aa.txt	bb.txt
+
+文件/jpg
+
+xx.jpg
+xx2.jpg
+文件/py
+
+文件操作.py
+文件相关操作.py
+文件/txt
+
+aa.txt
+bb.txt
+
+文件/jpg
+	xx.jpg	xx2.jpg
+文件/py
+	文件操作.py	文件相关操作.py
+文件/txt
+	aa.txt	bb.txt
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
+文件/jpg
+	xx.jpg
+	xx2.jpg
+
+文件/py
+	文件操作.py
+	文件相关操作.py
+
+文件/txt
+	aa.txt
+	bb.txt
+
+
